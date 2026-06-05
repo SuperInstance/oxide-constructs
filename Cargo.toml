@@ -1,0 +1,9 @@
+[package]
+name = "oxide-constructs"
+version = "0.1.0"
+edition = "2021"
+description = "Git-native construct loader for the Flux→PTX runtime. Loads, verifies, and deploys GPU capabilities (skills and equipment) from git repositories."
+license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/oxide-constructs"
+keywords = ["cuda", "gpu", "construct", "git", "flux"]
+categories = ["compilers", "development-tools"]
